@@ -28,4 +28,3 @@ for i, email in enumerate(list_of_emails):
 
 # close the driver since we don't need it 
 driver.close()
-
